@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.4)  4 JUN 2021 17:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.4)  4 JUN 2021 17:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -977,20 +977,20 @@ File: Potentialfeldmethode_files/Potentialfeldmethode_21_0.png Graphic file (ty
 pe png)
 <use Potentialfeldmethode_files/Potentialfeldmethode_21_0.png>
 Package pdftex.def Info: Potentialfeldmethode_files/Potentialfeldmethode_21_0.p
-ng  used on input line 518.
+ng  used on input line 519.
 (pdftex.def)             Requested size: 218.81696pt x 248.92938pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--521
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
 
  []
 
 [4 <./Potentialfeldmethode_files/Potentialfeldmethode_21_0.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 527.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 527.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 528.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 528.
 
 (./Potentialfeldmethode.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 527.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 527.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 528.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 528.
 Package rerunfilecheck Info: File `Potentialfeldmethode.out' has not changed.
 (rerunfilecheck)             Checksum: E6ACE89A80AA4E3741F3CCCC94C8C429;594.
  ) 
@@ -1010,7 +1010,7 @@ type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/mathpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palat
 ino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Potentialfeldmethode.pdf (4 pages, 151645 bytes).
+Output written on Potentialfeldmethode.pdf (4 pages, 151688 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream

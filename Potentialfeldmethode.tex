@@ -411,13 +411,13 @@ Roboter in einer Spielwelt mit folgenden Parametern zu navigieren:
 \subsubsection{1) Erstellung des anziehenden
 Potientialfeldes:}\label{erstellung-des-anziehenden-potientialfeldes}}
 
-Erste Teilaufgabe ist es die Spielwelt ohne Hindernisse zu berechnen und
-darzustellen. Dies geschiet mit folgender Formel:
+Erste Teilaufgabe ist es das anziehende Potentialfeld ohne Hindernisse
+zu berechnen und darzustellen. Dies geschiet mit folgender Formel:
 \[ U_{att}(q) = \frac{1}{2} \times k_{att} \times \rho_{goal}^2(q)\]
 wobei \(\rho_{goal}\) den euklidischen Abstand von der Koordinate des
 Roboters zum Ziel beschreibt.
 \[ \rho = \sqrt{(x_{Roboter} - y_{Goal})^2 + (y_{Roboter} - y_{Goal})^2} \]
-Um nun das anzuziehende Spielfeld darstellen zu können wird nun über
+Um nun das anzuziehende Potentialfeld darstellen zu können wird nun über
 jeden der Spielwelt \(U_{att}(q)\) berechnet.
 
     \hypertarget{plot-potentialfeld}{%
@@ -511,8 +511,9 @@ abstoßenden Kräften welche dem Pfad entspricht.
     \hypertarget{plot-roboterpfad}{%
 \paragraph{Plot Roboterpfad:}\label{plot-roboterpfad}}
 
-Hier der Pfad des Roboters zu sehen, der Roboter beginnt bei des
-Startpunkt bei (2,1) und endet beim Ziel (9,9)
+Hier der Pfad des Roboters zu sehen, der Roboter beginnt bei dem
+Startpunkt bei (2,1) und endet beim Ziel (9,9) wobei die ausgefüllten
+Kreise die Hindernisse darstellen.
 
     \begin{center}
     \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{Potentialfeldmethode_files/Potentialfeldmethode_21_0.png}
